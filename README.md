@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning functional progamming in haskell and plant breeding
 - 💞️ I’m looking to collaborate on an internship project
 - 📫 How to reach me lmldejong@outlook.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I like standing on my hands
 
 <!---
